@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+tensorflow
+keras
+tqdm
+pyvirtualdisplay
+ez_setup
+gymnasium
+gymnasium[box2d]
+jupyter
