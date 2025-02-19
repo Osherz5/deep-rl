@@ -1,0 +1,7 @@
+* Background
+
+Reinforcement Learning (RL) is a powerful machine learning paradigm where agents learn to make decisions by interacting with an environment. One of the most well-known applications of RL is training agents to perform tasks within game-like environments. In this project, we aim to explore how RL techniques, specifically Q-learning and Deep Q-learning (DQN), can be used to train intelligent agents in game environments provided by Gymnasium, an open-source library that facilitates RL experimentation.
+
+Q-learning is a model-free RL algorithm that enables an agent to learn the optimal action-value function without requiring a model of the environment. However, Q-learning struggles with scalability, particularly in environments with large state spaces. To overcome this limitation, Deep Q-learning leverages deep neural networks to approximate the Q-values, enabling RL to tackle more complex environments with high-dimensional state spaces.
+
+The primary goal of this project is to compare the performance of Q-learning and Deep Q-learning in game-based environments and to understand their strengths, weaknesses, and practical applications in training agents for decision-making tasks.
